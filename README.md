@@ -20,3 +20,7 @@ I am a recent graduate on Data Science and Engineering at University of Coimbra,
 - Jupyter Notebooks
 - VS Code/PyCharm
 - Docker
+
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAnt17&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAnt17&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
