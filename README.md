@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Miguel👋
 
-<!--
-**MiguelAnt17/MiguelAnt17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate on Data Science and Engineering at University of Coimbra, with a strong interest in Machine Learning, Computer Vision, NLP.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[TeachersArch](https://github.com/MiguelAnt17/TeachersArch)** — A digital platform aimed at enhancing proactive academic intervention through student grade prediction.
+* **[NLP_project](https://github.com/MiguelAnt17/NLP_project)** — A Natural Language Processing initiative aimed at extracting and analyzing sentiment from Portuguese Twitter conversational data.
+* **[sic_project](https://github.com/MiguelAnt17/sic_project).** - A solution leveraging IoT and data analytics for intelligent datacenter health monitoring.
+
+## Technical Skills
+
+- Programming Languages: Python, SQL and C
+- ML/DL Frameworks: TensorFlow, Skickit-learn, LightGBM
+- Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+
+## Tools & Platforms
+
+- Gut/Github/GitLab
+- Jupyter Notebooks
+- VS Code/PyCharm
+- Docker
