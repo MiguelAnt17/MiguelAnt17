@@ -6,7 +6,6 @@ I am a recent graduate on Data Science and Engineering at University of Coimbra,
 
 * **[TeachersArch](https://github.com/MiguelAnt17/TeachersArch)** — A digital platform aimed at enhancing proactive academic intervention through student grade prediction.
 * **[NLP_project](https://github.com/MiguelAnt17/NLP_project)** — A Natural Language Processing initiative aimed at extracting and analyzing sentiment from Portuguese Twitter conversational data.
-* **[sic_project](https://github.com/MiguelAnt17/sic_project).** - A solution leveraging IoT and data analytics for intelligent datacenter health monitoring.
 
 ## Technical Skills
 
