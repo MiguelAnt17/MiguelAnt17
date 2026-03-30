@@ -1,6 +1,7 @@
 ## Hi, I'm Miguel👋
 
 I am a recent graduate on Data Science and Engineering at University of Coimbra, with a strong interest in Machine Learning, Computer Vision, NLP.
+Currently pursuing a Master in Artificial Intelligence.
 
 ## Featured Projects
 
