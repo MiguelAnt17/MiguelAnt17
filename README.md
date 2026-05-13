@@ -10,7 +10,7 @@ Currently exploring: RAG agents, model interpretability, scientific NLP, and AI 
 ## 📖 Current Chapter
 
 - 🎓 MSc Artificial Intelligence @ University of Coimbra
-- 🧠 Focus: Deep Learning, NLP, Explainable AI, RAG
+- 🧠 Focus: Deep Learning, NLP, Explainable AI
 - 🔬 Building: research agents, interpretable ML systems, model evaluation tools
 - 🤝 Open to: AI/ML internships, research engineering, startup teams, open-source collaboration
 
