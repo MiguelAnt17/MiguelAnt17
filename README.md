@@ -30,8 +30,8 @@ A builder who can:
 
 | Project | What it proves |
 |---|---|
-| scholar-ai-rag-agent | I can build LLM/RAG systems for real research workflows |
-| model-biographies | I can explain, evaluate, and critique model behavior |
+| scholar-ai | I can build LLM/RAG systems for real research workflows |
+| counterfactuals_generation | I can explain, evaluate, and critique model behavior |
 | TeachersArch | I can apply ML to human-centered problems |
 | genetic-symbolic-regression | I understand algorithmic search and interpretable modeling |
 
