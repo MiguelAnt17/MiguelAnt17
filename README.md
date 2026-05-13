@@ -1,7 +1,9 @@
-## Hi, I'm Miguel👋
+# I build AI/ML systems — then write their biographies.
 
-I am a recent graduate on Data Science and Engineering at University of Coimbra, with a strong interest in Machine Learning, Computer Vision, NLP.
-Currently pursuing a Master in Artificial Intelligence.
+I’m Miguel António, an MSc Artificial Intelligence student @ University of Coimbra, focused on Deep Learning, NLP, and Explainable AI.  
+My work lives at the intersection of building useful models, understanding why they behave the way they do, and turning research ideas into tools people can actually use.
+
+Currently exploring: model interpretability, scientific NLP, and AI systems that can explain their own reasoning without pretending to be certain.
 
 ## Featured Projects
 
@@ -11,12 +13,12 @@ Currently pursuing a Master in Artificial Intelligence.
 ## Technical Skills
 
 - Programming Languages: Python, SQL and C
-- ML/DL Frameworks: TensorFlow, Skickit-learn, LightGBM
+- ML/DL Frameworks: TensorFlow, Scickit-learn, LightGBM
 - Data Science Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 ## Tools & Platforms
 
-- Gut/Github/GitLab
+- Git/Github/GitLab
 - Jupyter Notebooks
 - VS Code/PyCharm
 - Docker
