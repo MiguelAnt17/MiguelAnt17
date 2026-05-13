@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/model-biographer-banner.svg" alt="I build AI systems — then write their biographies." />
-</p>
-
 # I build AI systems — then write their biographies.
 
 I’m Miguel António, an MSc Artificial Intelligence student focused on Deep Learning, NLP, and Explainable AI.  
