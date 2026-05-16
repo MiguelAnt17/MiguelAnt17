@@ -48,4 +48,4 @@ A builder who can:
 
 ## 🛼 Outside the Lab
 
-I read biographies to understand how people think, skate to reset my brain, and steal useful ideas from other fields whenever they make AI easier to explain.
+I read biographies to understand how people think, inline skating to reset my brain, and steal useful ideas from other fields whenever they make AI easier to explain.
